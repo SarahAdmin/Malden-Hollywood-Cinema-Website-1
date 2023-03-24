@@ -1,0 +1,68 @@
+body { 
+    background-color:black;
+}
+
+h1.payHeading { 
+    color:snow; 
+    font-family:Verdana; 
+    font-size:40px; 
+    text-align:center;
+
+}
+
+label { 
+    color:snow; 
+    font-family:Verdana; 
+    font-size:15px; 
+    text-align:left;
+}
+
+input[type=text] { 
+    width: 100%; 
+    padding: 12px 20px; 
+    margin: 8px 0; 
+    display: inline-block; 
+    border: 1px solid snow; 
+    border-radius: 4px; 
+    box-sizing: border-box;
+}
+
+
+select { 
+    width:20%; 
+    padding: 10px; 
+    border-radius:10px;
+}
+
+
+button.backPage {
+    background-color:red;
+    border: none; 
+    color:snow; 
+    text-align:center; 
+    padding: 15px 32px; 
+    text-decoration: none; 
+    display:inline-block; 
+    margin: 4px 2px; 
+    cursor:pointer;
+}
+
+button.NextPage { 
+    background-color:red; 
+    border: none; 
+    color:snow; 
+    text-align:center; 
+    padding: 15px 32px; 
+    text-decoration: none; 
+    display:inline-block; 
+    margin: 4px 2px; 
+    cursor:pointer;
+}
+
+form.rightButton { 
+    text-align:right;
+}
+
+form.leftButton { 
+    text-align:left;
+}

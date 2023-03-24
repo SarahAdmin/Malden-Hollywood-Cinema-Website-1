@@ -1,0 +1,18 @@
+body { 
+    background-color:black;
+}
+
+h1.completedHeading { 
+    color:snow; 
+    font-family:Verdana; 
+    font-size:30px; 
+    text-align:center;
+}
+
+p.infoOne { 
+    color:snow; 
+    font-family:arial; 
+    font-size:25px; 
+    text-align:center;
+}
+

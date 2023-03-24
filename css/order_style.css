@@ -1,0 +1,29 @@
+body { 
+background-color:black; 
+} 
+
+h1 { 
+color:snow; 
+font-family:verdana; 
+font-size:40px; 
+text-align:CENTER;
+} 
+
+h2 { 
+color:snow;
+font-family:verdana; 
+}
+
+
+button.nextPay { 
+ background-color: red ; 
+    border: none; 
+    color:snow; 
+    text-align:center; 
+    padding: 15px 32px; 
+    text-decoration: none; 
+    display:inline-block; 
+    margin: 4px 2px; 
+    cursor:pointer;
+
+}

@@ -1,0 +1,58 @@
+body { 
+    background-color:black;
+}
+
+h1.filmHeading { 
+    color:white; 
+    font-family:Verdana; 
+    font-size :40px;
+    text-align:center;
+}
+
+.filmCard { 
+    float:left; 
+    width: 33.33%;
+    padding: 5px;
+}
+
+.rowOne::after { 
+    content: ""; 
+    clear: both; 
+    display: table;
+}
+
+.filmCard1 { 
+    float:left; 
+    width: 33.33%; 
+    padding: 5px;
+}
+
+.rowTwo::after { 
+    content:""; 
+    clear:both; 
+    display:table;
+}
+.filmCard2 { 
+    float:left; 
+    width: 33.33%; 
+    padding: 5px;
+}
+
+.rowThree::after { 
+    content:""; 
+    clear:both; 
+    display:table;
+}
+
+button.ButtonStyle { 
+    background-color: snow; 
+    border: none; 
+    color:black ; 
+    text-align:center; 
+    padding: 15px 32px; 
+    text-decoration: none; 
+    display:inline-block; 
+    margin: 4px 2px; 
+    cursor:pointer;
+
+}

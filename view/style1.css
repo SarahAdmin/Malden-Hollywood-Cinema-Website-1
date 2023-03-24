@@ -1,0 +1,72 @@
+body { 
+    background-color:black; 
+}
+
+.header { 
+  padding:40px; 
+  background:black; 
+
+} 
+
+.topnav { 
+   overflow:hidden;
+   background-color:black;
+}
+.topnav a { 
+    color:deeppink; 
+    display:block; 
+    float:left; 
+    text-align:center; 
+    padding: 14px 16px;
+    text-decoration:none;
+    font-family:Verdana;
+}
+
+.topnav  a:hover { 
+   background-color:rebeccapurple; 
+   color:lavender;
+}
+
+.footer { 
+    padding:40px; 
+    background:black;
+}
+
+
+ p.info { 
+    color:black; 
+    font-family:arial;
+
+ }
+
+ .column { 
+    float:left;
+    width: 100%;
+    padding: 40px; 
+    height: 600px;
+
+ }
+
+ .row:after { 
+    content: ""; 
+    display: table; 
+    clear: both;
+ }
+
+ h1.info { 
+    font-family:"comic sans MS"; 
+    color:black; 
+    font-size:40px;
+ }
+
+ h2.info { 
+    font-family:arial; 
+    color: black; 
+ }
+
+ p.paragraphOne { 
+   font-family:verdana; 
+   color: snow;
+
+ }
+

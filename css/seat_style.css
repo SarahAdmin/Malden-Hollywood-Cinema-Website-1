@@ -1,0 +1,91 @@
+body { 
+    background-color:black; 
+}
+
+
+div.selectedKey { 
+    background-color:lime; 
+    height:30px;
+    width:30px;
+}
+
+div.soldKey { 
+    background-color:red; 
+    height:30px; 
+    width:30px; 
+
+}
+
+div.reservedKey { 
+    background-color:yellow; 
+    height:30px; 
+    width: 30px;
+}
+
+h3.headingOne { 
+    font-family:Verdana; 
+    font-size: 50px; 
+    text-align:center;
+    color:snow;
+}
+h1.keyHeading { 
+    font-family:verdana;
+    color:snow;
+}
+
+h2.selectedHeading { 
+    font-family:verdana; 
+    color:snow;
+
+}
+
+h2.soldHeading { 
+    font-family:verdana;
+    color:snow;
+}
+
+h2.reservedHeading { 
+    font-family:verdana;
+    color:snow;
+}
+
+h1.seatPositionHeading { 
+    font-family:verdana; 
+    font-size:35px;
+    color:snow;
+}
+
+div.selectedSeat { 
+    background-color:lime;
+}
+button.One {
+    background-color:rebeccapurple; 
+    border: none; 
+    color:snow; 
+    text-align:center; 
+    padding: 15px 32px; 
+    text-decoration: none; 
+    display:inline-block; 
+    margin: 4px 2px; 
+    cursor:pointer;
+}
+
+button.Two { 
+    background-color:rebeccapurple; 
+    border: none; 
+    color:snow; 
+    text-align:center; 
+    padding: 15px 32px; 
+    text-decoration: none; 
+    display:inline-block; 
+    margin: 4px 2px; 
+    cursor:pointer;
+}
+
+form.rightButton { 
+    text-align:right;
+}
+
+form.leftButton { 
+    text-align:left;
+}

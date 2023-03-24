@@ -1,0 +1,77 @@
+body { 
+    background-color:black;
+}
+h1.titleHeading { 
+    color:white; 
+    text-align:center; 
+    font-size:50px; 
+    font-family:Arial; 
+}
+
+h2.timeHeading { 
+    color:white; 
+    font-size: 20px; 
+    font-family:Verdana; 
+}
+a.times2 { 
+    background-color:black;
+    color:deeppink; 
+    font-family:verdana; 
+    font-size:40px;
+    
+}
+
+h2.dateHeading { 
+    color:white; 
+    text-align:left;
+    font-size: 20px; 
+    font-family:Verdana; 
+}
+
+label { 
+    color:white; 
+    font-family:verdana;
+    text-align:right;
+}
+
+select { 
+    width:20%; 
+    padding: 10px; 
+    border-radius:10px;
+}
+
+form.quantityOfPeople { 
+    text-align:right;
+}
+
+button.One {
+    background-color:violet; 
+    border: none; 
+    color:snow; 
+    text-align:center; 
+    padding: 15px 32px; 
+    text-decoration: none; 
+    display:inline-block; 
+    margin: 4px 2px; 
+    cursor:pointer;
+}
+
+button.Two { 
+    background-color:violet; 
+    border: none; 
+    color:snow; 
+    text-align:center; 
+    padding: 15px 32px; 
+    text-decoration: none; 
+    display:inline-block; 
+    margin: 4px 2px; 
+    cursor:pointer;
+}
+
+form.rightButton { 
+    text-align:right;
+}
+
+form.leftButton { 
+    text-align:left;
+}

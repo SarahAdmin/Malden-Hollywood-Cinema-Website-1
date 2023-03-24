@@ -1,0 +1,34 @@
+body { 
+    background-color:black;
+}
+
+h1 { 
+    color:snow; 
+    font-family:Verdana; 
+    font-size:30px; 
+    text-align:center;
+}
+
+h2 { 
+    color:snow; 
+    font-family:arial; 
+    font-size:20px; 
+    text-align:center;
+}
+
+form.mainButton { 
+    text-align:center;
+}
+
+button.returnHome{ 
+    background-color:red; 
+    border: none; 
+    color:snow; 
+    text-align:center; 
+    padding: 15px 32px; 
+    text-decoration: none; 
+    display:inline-block; 
+    margin: 4px 2px; 
+    cursor:pointer;
+}
+

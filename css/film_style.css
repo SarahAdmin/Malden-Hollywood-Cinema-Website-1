@@ -1,0 +1,82 @@
+body { 
+    background-color:black;
+}
+
+
+.header { 
+    padding:40px; 
+    background:black; 
+  
+  } 
+  
+  .topnav { 
+     overflow:hidden;
+     background-color:black;
+  }
+  .topnav a { 
+      color:deeppink; 
+      display:block; 
+      float:left; 
+      text-align:center; 
+      padding: 14px 16px;
+      text-decoration:none;
+      font-family:Verdana;
+  }
+  
+  .topnav a:hover { 
+     background-color:rebeccapurple; 
+     color:lavender;
+  }
+  
+  .footer { 
+      padding:40px; 
+      background:black;
+  }
+
+h1 { 
+    font-family:verdana;
+    color:snow;
+    font-size:40px;
+    text-align:center;
+}
+
+.card { 
+    box-shadow: 0 4px 8px black; 
+    max-width:300px; 
+    margin:auto; 
+    
+    
+}
+
+h1.filmTitle { 
+    font-family:verdana; 
+    color:snow; 
+    text-align:left;
+}
+
+p { 
+    font-family:verdana; 
+    color:snow; 
+    text-align:left;
+
+} 
+
+form { 
+    text-align:left;
+}
+
+form.searchFilms { 
+    text-align:right;
+}
+
+button.filmtrail { 
+    background-color: red ; 
+    border: none; 
+    color:snow; 
+    text-align:center; 
+    padding: 15px 32px; 
+    text-decoration: none; 
+    display:inline-block; 
+    margin: 4px 2px; 
+    cursor:pointer;
+}

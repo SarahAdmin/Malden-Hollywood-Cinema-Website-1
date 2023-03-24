@@ -1,0 +1,28 @@
+h1.eventsHeading { 
+    font-family:"comic sans MS"; 
+    color:black; 
+    font-size:40px;
+}
+
+h1 {
+    font-family:"comic sans MS"; 
+    color:black; 
+    font-size:40px; 
+}
+
+h1.info1 { 
+    font-family:verdana; 
+    color: black; 
+  
+}
+
+p.info1 { 
+    font-family:verdana; 
+    color: black; 
+    font-size:20px;
+}
+
+h2 { 
+    font-family:verdana; 
+    color: black; 
+}

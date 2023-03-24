@@ -1,0 +1,41 @@
+
+
+h1 { 
+    color:snow; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+    text-align:center; 
+    font-size:50px;
+}
+
+label.register_member { 
+color:snow; 
+font-family:arial; 
+text-align:left; 
+font-size:20px;
+}
+
+input[type=text] { 
+    width: 100%; 
+    padding: 12px 20px; 
+    margin: 8px 0; 
+    display: inline-block; 
+    border: 1px solid snow; 
+    border-radius: 4px; 
+    box-sizing: border-box;
+}
+
+button.submit { 
+    width: 50%;
+    color:black; 
+    background-color:snow; 
+    padding: 12px 16px; 
+    margin: 4px 0;
+    border-radius: 4px; 
+    border:none;
+    cursor:pointer;
+}
+
+p { 
+    color:snow; 
+    font-family:verdana; 
+}
